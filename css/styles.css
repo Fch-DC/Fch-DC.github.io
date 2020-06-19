@@ -21,6 +21,12 @@ body {
         color: red;
         text-align: center;
       }
+      .red {
+      background-color: #910000; 
+      color: black;
+      font-size: 40
+      text-align: center;     
+      }
       a {
         background: black; 
         color: red;

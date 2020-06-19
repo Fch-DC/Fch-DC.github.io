@@ -12,25 +12,19 @@ body {
         text-shadow: 2px 2px #303030;
       }
       h3 {
-      background-color: red; 
-      color: black;
-      font-size: 40
-      text-align: center;
+        background-color: red; 
+        color: black;
+        font-size: 40
+        text-align: center;
       }
       h6 {
         color: red;
         text-align: center;
       }
-      .red {
-      background-color: red; 
-      color: black;
-      font-size: 40
-      text-align: center;
-      }
       a {
-      background: black; 
-      color: red;
-      font-size: 40
-      text-align: center;
-      text-decoration: none;
+        background: black; 
+        color: red;
+        font-size: 40
+        text-align: center;
+        text-decoration: none;
       }

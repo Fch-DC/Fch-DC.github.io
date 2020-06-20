@@ -30,13 +30,15 @@ body {
       a {
         background: black; 
         color: red;
-        font-size: 40
+        font-size: 40;
         text-align: center;
         text-decoration: none;
       }
       .logo img {
-            margin: 0 auto;
-            max-width: 300px;
+            margin: 0;
+            max-width: 200px;
+            position: relative;
+            top: 12px;
             width: 100%;
       }
      

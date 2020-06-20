@@ -38,4 +38,10 @@ body {
             max-width: 20px;
             max-height: 20px;
       }
-     
+      .paper {
+            padding: 0;
+            display: block;
+            margin: 0 auto;
+            max-height: 100%;
+            max-width: 100%;
+      }

@@ -38,10 +38,12 @@ body {
             max-width: 40px;
             max-height: 40px;
       }
-      .img {
-            padding: 0;
-            display: block;
-            margin: 0 auto;
-            max-height: 100%;
-            max-width: 100%;
+      div {
+      width:80vw;
+      height:80vh;
+      }
+      img {
+            max-width:100%;
+            height:auto;
+            max-height:100%;
       }

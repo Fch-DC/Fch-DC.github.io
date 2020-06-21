@@ -39,6 +39,7 @@ body {
             max-width: 40px;
             max-height: 40px;
             display: inline;
+            align: left;
       }
       img {
             max-width:100%;

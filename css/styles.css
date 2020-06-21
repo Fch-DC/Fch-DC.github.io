@@ -43,3 +43,6 @@ body {
             height:auto;
             max-height:100%;
       }
+      .inline-block{
+      display: inline-block;
+      }

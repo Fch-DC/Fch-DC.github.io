@@ -10,6 +10,7 @@ body {
         text-align: center;
         text-decoration: none;
         text-shadow: 2px 2px #303030;
+        display: inline;
       }
       h3 {
         background-color: #910000; 

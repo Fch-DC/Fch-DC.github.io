@@ -6,11 +6,11 @@ body {
         text-align: center;
       }
       h1 {
-        display: inline;
         color: "#910000";
         text-align: center;
         text-decoration: none;
         text-shadow: 2px 2px #303030;
+        display: inline;
       }
       h3 {
         background-color: #910000; 
@@ -44,7 +44,4 @@ body {
             max-width:100%;
             height:auto;
             max-height:100%;
-      }
-      .inline-block{
-      display: inline-block;
-      }
+
